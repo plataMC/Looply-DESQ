@@ -6,6 +6,7 @@ This is a guide on how to use the website. All that stuff. Made it short. Please
 You need to have an account to access its features. All of its features are free. This is my passion project and I don't like charging people. 
 ### Sign Up / Register
 To have an account, click on the **‘Sign Up’** button. Depending on your preferences, you can either sign up manually via email or sign up using your google email. 
+(https://github.com/plataMC/Looply-DESQ/blob/main/img/sign%20up.png)
 ### Sign In / Login
 If you already have an account with Looply, you do not need to sign up using the same email. Instead, click on the **‘Sign In’** or **‘Log In’** button and proceed with your already existing email.
 ### Forgot Password
