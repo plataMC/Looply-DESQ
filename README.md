@@ -3,6 +3,9 @@ A website to make pricing less intimidating and more empowering! One craft at a 
 This is a guide on how to use the website. All that stuff. Made it short. Please take time to read it.
 ![](https://github.com/plataMC/Looply-DESQ/blob/main/img/landing.gif)
 
+Contents
+
+
 ## Getting Started
 You need to have an account to access its features. All of its features are free. This is my passion project and I don't like charging people. 
 ### Sign Up / Register
@@ -34,3 +37,4 @@ Basically shows your user info and the ability to update your information. This 
 ## Support
 If you appreciate my work and/or would like to show further support, please consider giving me a coffee in my [ko-fi page](https://ko-fi.com/looplyph)! 
 Here are my socials for those who would like to connect, collab, communicate, or just get to know each other! [socials](https://linktr.ee/looplyph).
+If you would like to view tasks related to DESQ, please visit [my workspace board](https://looplyph.teamhood.com/LOWO/Board/LODE?view=KANB&token=Ym9hcmRWaWV3OzIzMGI5MjQ5NGVkMjRjMjhiNGRhYzJiYzA4N2U4YTQz).
