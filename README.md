@@ -18,7 +18,6 @@ You will be prompted to enter your email for verification purposes. Once you rec
 ## App Features
 ### Homepage
 After log in, you will be directed to the Home page by default. This page lists your outputs or results from the Pricings page. 
-![](https://github.com/plataMC/Looply-DESQ/blob/main/img/homepage.png)
 ![](https://github.com/plataMC/Looply-DESQ/blob/main/img/homepage.gif)
 ### Materials
 For every material you physically have, it is suggested to add it in the Materials page. You should be able to add new material and view your material details upon successful save. The list of materials will be used during calculations in the Pricings section.
@@ -29,10 +28,9 @@ There are ways to price your crafts. If you plan to sell 1 item only, then choos
 ![](https://github.com/plataMC/Looply-DESQ/blob/main/img/single-pricing.gif)
 #### Bulk Pricing
 ![](https://github.com/plataMC/Looply-DESQ/blob/main/img/bulk-pricing.gif)
-
 ### User Profile
 Basically shows your user info and the ability to update your information. This is also where FAQs are.
 
 ## Support
-If you appreciate my work AND would like to show further support, please consider giving me a coffee in my [ko-fi page](https://ko-fi.com/looplyph)! 
-
+If you appreciate my work and/or would like to show further support, please consider giving me a coffee in my [ko-fi page](https://ko-fi.com/looplyph)! 
+Here are my socials for those who would like to connect, collab, communicate, or just get to know each other! [socials](https://linktr.ee/looplyph).
