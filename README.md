@@ -1,6 +1,8 @@
 # Looply-DESQ Guide
-A website to make pricing less intimidating and more empowering! One craft at a time. Have courage in your decisions.
+A website to make pricing less intimidating and more empowering! Have courage in your decisions.
 This is a guide on how to use the website. All that stuff. Made it short. Please take time to read it.
+Read the [version updates here](https://github.com/plataMC/Looply-DESQ/releases). (You dont have to download any of the files in there. It's empty) 
+
 ![](https://github.com/plataMC/Looply-DESQ/blob/main/img/landing.gif)
 
 ## Getting Started
