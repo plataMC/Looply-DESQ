@@ -39,12 +39,12 @@ Modified Bulk mode is similar to Bulk mode but you have a list of different item
 ### User Profile
 Basically shows your user info and the ability to update your information. This is also where FAQs are.
 
-## Credits
+## CREDITS
 Without them, the outcome would've been very biased. 
 ![](https://github.com/plataMC/Looply-DESQ/blob/main/img/credits.png)
 
 
-# Support
-- If you appreciate my work and/or would like to show further support, please consider giving me a coffee in my [ko-fi page](https://ko-fi.com/looplyph)! 
-- Here are my socials for those who would like to connect, collab, communicate, or just get to know each other! [socials](https://linktr.ee/looplyph).
-- If you would like to view tasks related to DESQ, please visit [my workspace board](https://looplyph.teamhood.com/LOWO/Board/LODE?view=KANB&token=Ym9hcmRWaWV3OzIzMGI5MjQ5NGVkMjRjMjhiNGRhYzJiYzA4N2U4YTQz).
+# SUPPORT
+- If you appreciate my work and/or would like to show **further support**, please consider giving me a coffee in my [ko-fi page](https://ko-fi.com/looplyph)! 
+- Here are my **socials** for those who would like to connect, collab, communicate, or just get to know each other! [socials](https://linktr.ee/looplyph).
+- If you would like to **view tasks** related to DESQ, please visit [my workspace board](https://looplyph.teamhood.com/LOWO/Board/LODE?view=KANB&token=Ym9hcmRWaWV3OzIzMGI5MjQ5NGVkMjRjMjhiNGRhYzJiYzA4N2U4YTQz).
