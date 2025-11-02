@@ -19,19 +19,23 @@ You will be prompted to enter your email for verification purposes. Once you rec
 
 ## App Features
 ### Homepage
-After log in, you will be directed to the Home page by default. This page lists your outputs or results from the Pricings page. 
+After log in, you will be directed to the Homepage by default. This page shows your product pricing from the **Pricing** page. 
 ![](https://github.com/plataMC/Looply-DESQ/blob/main/img/homepage.mp4)
 ### Materials
-For every material you physically have, it is suggested to add it in the Materials page. You should be able to add new material and view your material details upon successful save. The list of materials will be used during calculations in the Pricings section.
-![](https://github.com/plataMC/Looply-DESQ/blob/main/img/add%20a%20material.mp4)
+You should be able to add new material and view your material details upon successful save. The list of materials will be used during calculations in the Pricings section.
+The **Material Name** and **Supplier Name** will be your identifiers. (Example: "MC Purpler Yarn - ABC Supplier" will appear when selecting materials in the **Pricing** page)
+![](https://github.com/plataMC/Looply-DESQ/blob/main/img/V2.1/adding%20material%20.gif)
 ### Pricing
 There are ways to price your crafts. If you plan to sell 1 item only, then choose the ‘Single Item’ option. If you have a bulk item and would like to sell it as a whole or get a price for each item, choose the ‘Bulk Item’ option. Future updates or versions will include more pricing options for users to choose from. The more users and feedback, the more pricing options to be considered.
 #### Single Pricing
-![](https://github.com/plataMC/Looply-DESQ/blob/main/img/single%20pricing.mp4)
+This is for single project or items that are sold as individual items. **Platform Fees** could be as it is or listing fees. This is usually when you’re selling your items through digital platforms (e-commerce). For example, Etsy charges $0.20 for each sale you get. You can put 0.20 in the Platform Fees. This would be added as a **padding** fee. It will consider the listing fee in the calculation.
+![](https://github.com/plataMC/Looply-DESQ/blob/main/img/V2.1/single.gif)
 #### Bulk Pricing
-![](https://github.com/plataMC/Looply-DESQ/blob/main/img/bulk%20pricing.mp4)
+Bulk mode is when you make multiple items and plan to sell them as a whole. This also applies when you make batch of same items and would want to know how much they cost per item.
+![](https://github.com/plataMC/Looply-DESQ/blob/main/img/V2.1/bulk.gif)
 ### [NEW] Modified Bulk Pricing
-![](https://github.com/plataMC/Looply-DESQ/blob/main/img/modified%20bulk%20pricing.mp4)
+Modified Bulk mode is similar to Bulk mode but you have a list of different items with different total hours spent with each batch (leaves, petals, body, dress, hair pieces, etc).
+![](https://github.com/plataMC/Looply-DESQ/blob/main/img/V2.1/modified%20bulk.gif)
 ### User Profile
 Basically shows your user info and the ability to update your information. This is also where FAQs are.
 
