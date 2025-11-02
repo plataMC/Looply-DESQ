@@ -5,7 +5,7 @@ Read the [version updates here](https://github.com/plataMC/Looply-DESQ/releases)
 
 ![](https://github.com/plataMC/Looply-DESQ/blob/main/img/landing.gif)
 
-## Getting Started
+## GETTING STARTED 
 You need to have an account to access its features. All of its features are free. This is my passion project and I don't like charging people. 
 ### Sign Up / Register
 To have an account, click on the **‘Sign Up’** button. Depending on your preferences, you can either sign up manually via email or sign up using your google email. 
@@ -17,15 +17,15 @@ If you already have an account with Looply, you do not need to sign up using the
 If you cannot remember your password, click on the **‘Forgot Password’** in the Sign In section. 
 You will be prompted to enter your email for verification purposes. Once you receive the verification code, you shall be able to reset your password.
 
-## App Features
+## FEATURES
 ### Homepage
 After log in, you will be directed to the Homepage by default. This page shows your product pricing from the **Pricing** page. 
-![](https://github.com/plataMC/Looply-DESQ/blob/main/img/homepage.mp4)
+![](https://github.com/plataMC/Looply-DESQ/blob/main/img/homepage.png)
 ### Materials
 You should be able to add new material and view your material details upon successful save. The list of materials will be used during calculations in the Pricings section.
 The **Material Name** and **Supplier Name** will be your identifiers. (Example: "MC Purpler Yarn - ABC Supplier" will appear when selecting materials in the **Pricing** page)
 ![](https://github.com/plataMC/Looply-DESQ/blob/main/img/V2.1/adding%20material%20.gif)
-### Pricing
+### PRICING
 There are ways to price your crafts. If you plan to sell 1 item only, then choose the ‘Single Item’ option. If you have a bulk item and would like to sell it as a whole or get a price for each item, choose the ‘Bulk Item’ option. Future updates or versions will include more pricing options for users to choose from. The more users and feedback, the more pricing options to be considered.
 #### Single Pricing
 This is for single project or items that are sold as individual items. **Platform Fees** could be as it is or listing fees. This is usually when you’re selling your items through digital platforms (e-commerce). For example, Etsy charges $0.20 for each sale you get. You can put 0.20 in the Platform Fees. This would be added as a **padding** fee. It will consider the listing fee in the calculation.
