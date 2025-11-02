@@ -20,18 +20,25 @@ You will be prompted to enter your email for verification purposes. Once you rec
 ## App Features
 ### Homepage
 After log in, you will be directed to the Home page by default. This page lists your outputs or results from the Pricings page. 
-![](https://github.com/plataMC/Looply-DESQ/blob/main/img/homepage.gif)
+![](https://github.com/plataMC/Looply-DESQ/blob/main/img/homepage.mp4)
 ### Materials
 For every material you physically have, it is suggested to add it in the Materials page. You should be able to add new material and view your material details upon successful save. The list of materials will be used during calculations in the Pricings section.
-![](https://github.com/plataMC/Looply-DESQ/blob/main/img/add-a-material.mp4)
+![](https://github.com/plataMC/Looply-DESQ/blob/main/img/add%20a%20material.mp4)
 ### Pricing
 There are ways to price your crafts. If you plan to sell 1 item only, then choose the ‘Single Item’ option. If you have a bulk item and would like to sell it as a whole or get a price for each item, choose the ‘Bulk Item’ option. Future updates or versions will include more pricing options for users to choose from. The more users and feedback, the more pricing options to be considered.
 #### Single Pricing
-![](https://github.com/plataMC/Looply-DESQ/blob/main/img/single-pricing.gif)
+![](https://github.com/plataMC/Looply-DESQ/blob/main/img/single%20pricing.mp4)
 #### Bulk Pricing
-![](https://github.com/plataMC/Looply-DESQ/blob/main/img/bulk-pricing.gif)
+![](https://github.com/plataMC/Looply-DESQ/blob/main/img/bulk%20pricing.mp4)
+### [NEW] Modified Bulk Pricing
+![](https://github.com/plataMC/Looply-DESQ/blob/main/img/modified%20bulk%20pricing.mp4)
 ### User Profile
 Basically shows your user info and the ability to update your information. This is also where FAQs are.
+
+## Credits
+Without them, the outcome would've been very biased. 
+![](https://github.com/plataMC/Looply-DESQ/blob/main/img/credits.png)
+
 
 # Support
 - If you appreciate my work and/or would like to show further support, please consider giving me a coffee in my [ko-fi page](https://ko-fi.com/looplyph)! 
