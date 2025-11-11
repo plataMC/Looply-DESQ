@@ -33,8 +33,15 @@ This is for single project or items that are sold as individual items. **Platfor
 #### Bulk Pricing
 Bulk mode is when you make multiple items and plan to sell them as a whole. This also applies when you make batch of same items and would want to know how much they cost per item.
 ![](https://github.com/plataMC/Looply-DESQ/blob/main/img/V2.1/bulk.gif)
-### [NEW] Modified Bulk Pricing
+### Modified Bulk Pricing
 Modified Bulk mode is similar to Bulk mode but you have a list of different items with different total hours spent with each batch (leaves, petals, body, dress, hair pieces, etc).
+![](https://github.com/plataMC/Looply-DESQ/blob/main/img/V2.1/modified%20bulk.gif)
+### [NEW Version 3.0] Gram Based Pricing
+Gram based pricing has a similar concept with the previous methods except it asks users to enter how many grams were used in the selected materials. This method offers more exact pricing because it calculated price per gram * grams used for each selected materials.
+<img width="543" height="186" alt="image" src="https://github.com/user-attachments/assets/831ae19c-6564-46d1-be93-86b1e95ec448" />
+<img width="816" height="577" alt="image" src="https://github.com/user-attachments/assets/a41a326c-014b-4e3e-bab7-3ac4854f3b38" />
+
+
 ![](https://github.com/plataMC/Looply-DESQ/blob/main/img/V2.1/modified%20bulk.gif)
 ### User Profile
 Basically shows your user info and the ability to update your information. This is also where FAQs are.
