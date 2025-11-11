@@ -53,3 +53,7 @@ Without them, the outcome would've been very biased.
 - If you appreciate my work and/or would like to show **further support**, please consider giving me a coffee in my [ko-fi page](https://ko-fi.com/looplyph)! 
 - Here are my **socials** for those who would like to connect, collab, communicate, or just get to know each other! [socials](https://linktr.ee/looplyph).
 - If you would like to **view tasks** related to DESQ, please visit [my workspace board](https://looplyph.teamhood.com/LOWO/Board/LODE?view=KANB&token=Ym9hcmRWaWV3OzIzMGI5MjQ5NGVkMjRjMjhiNGRhYzJiYzA4N2U4YTQz).
+
+<img width="851" height="315" alt="3" src="https://github.com/user-attachments/assets/597b7941-cb99-4469-9713-4468eba0b6f0" />
+
+
