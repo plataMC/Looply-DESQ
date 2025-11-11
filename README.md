@@ -41,8 +41,6 @@ Gram based pricing has a similar concept with the previous methods except it ask
 <img width="543" height="186" alt="image" src="https://github.com/user-attachments/assets/831ae19c-6564-46d1-be93-86b1e95ec448" />
 <img width="816" height="577" alt="image" src="https://github.com/user-attachments/assets/a41a326c-014b-4e3e-bab7-3ac4854f3b38" />
 
-
-![](https://github.com/plataMC/Looply-DESQ/blob/main/img/V2.1/modified%20bulk.gif)
 ### User Profile
 Basically shows your user info and the ability to update your information. This is also where FAQs are.
 
